@@ -21,5 +21,3 @@ smoothScatter produces a smoothed color density representation of the scatterplo
   ## but considerably *less* efficient for really large data:
   plot(x, col = densCols(x), pch=20)
 ```
-
-`r n`
